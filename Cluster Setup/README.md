@@ -13,6 +13,11 @@ Before starting the installation process, ensure that the following prerequisite
 - You have root access to each server.
 
 ## Installation Steps
+## Install docker on all nodes (master and worker)
+## Refer the below link
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+
 The following are the step-by-step instructions for setting up a multi-node Kubernetes cluster using Kubeadm:
 
 Update the system's package list and install necessary dependencies using the following commands:
